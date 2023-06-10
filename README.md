@@ -1,3 +1,3 @@
 # Redirect
 
-This repo redirects to the Discord Server
+This repo redirects discord.cppcs.dev to the discord server
